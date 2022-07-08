@@ -62,7 +62,7 @@ More details on these options is available in the sections below corresponding t
 
 Default : `true`
 
-If true, this will automaticly set keymaps, you can refer to [`set_keymaps`]()
+If true, this will automaticly set keymaps, you can refer to [`set_keymaps`](https://github.com/gbprod/stay-in-place.nvim/blob/main/lua/stay-in-place.lua#L15)
 function if you want to set keymaps by yourself.
 
 #### `preserve_visual_selection`
