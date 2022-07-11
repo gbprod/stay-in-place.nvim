@@ -1,4 +1,4 @@
-local stayinplace = require("stay-in-place")
+require("stay-in-place")
 
 local function create_test_buffer()
   local bufnr = vim.api.nvim_create_buf(false, true)
