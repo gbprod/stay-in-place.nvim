@@ -8,6 +8,10 @@
 `stay-in-place.nvim` is a Neovim plugin that prevent the cursor from moving when
 using shift and filter actions.
 
+Slogan:
+
+> "Any of you fuckin' cursors move and I'll execute every one of you motherfuckers! Got that?" - Neovim Bunny
+
 ## ✨ Features
 
 When you use `shift` (`>` or `<` keys) or filter (`=` key), Neovim move your

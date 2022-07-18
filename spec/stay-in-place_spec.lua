@@ -1,4 +1,4 @@
-require("stay-in-place")
+require("stay-in-place").setup()
 
 local function create_test_buffer()
   local bufnr = vim.api.nvim_create_buf(false, true)
@@ -13,6 +13,7 @@ local function create_test_buffer()
     "Amet purus gravida quis blandit turpis cursus in.",
     "Auctor eu augue ut lectus arcu bibendum at.",
   })
+  vim.api.nvim_buf_set_option(0, "shiftwidth", 2)
 end
 
 local function execute_keys(feedkeys)
