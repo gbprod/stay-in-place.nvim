@@ -1,7 +1,7 @@
 # 🛑 stay-in-place.nvim
 
 ![Lua](https://img.shields.io/badge/Made%20with%20Lua-blueviolet.svg?style=for-the-badge&logo=lua)
-[![GitHub Workflow Status](https://img.shields.io/github/workflow/status/gbprod/stay-in-place.nvim/Integration?style=for-the-badge)](https://github.com/gbprod/stay-in-place.nvim/actions/workflows/integration.yml)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/gbprod/stay-in-place.nvim/integration.yml?branch=main&style=for-the-badge)](https://github.com/gbprod/stay-in-place.nvim/actions/workflows/integration.yml)
 
 `stay-in-place.nvim` is a Neovim plugin that prevent the cursor from moving when
 using shift and filter actions.
